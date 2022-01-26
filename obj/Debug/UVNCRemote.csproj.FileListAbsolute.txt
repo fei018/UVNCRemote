@@ -1,0 +1,17 @@
+C:\CodeRepos\UVNCRemote\obj\Debug\InputAccountWindow.g.cs
+C:\CodeRepos\UVNCRemote\obj\Debug\MainWindow.g.cs
+C:\CodeRepos\UVNCRemote\obj\Debug\App.g.cs
+C:\CodeRepos\UVNCRemote\obj\Debug\UVNCRemote_MarkupCompile.cache
+C:\CodeRepos\UVNCRemote\obj\Debug\UVNCRemote_MarkupCompile.lref
+C:\CodeRepos\UVNCRemote\bin\Debug\UVNCRemote.exe.config
+C:\CodeRepos\UVNCRemote\bin\Debug\UVNCRemote.exe
+C:\CodeRepos\UVNCRemote\bin\Debug\UVNCRemote.pdb
+C:\CodeRepos\UVNCRemote\obj\Debug\InputAccountWindow.baml
+C:\CodeRepos\UVNCRemote\obj\Debug\MainWindow.baml
+C:\CodeRepos\UVNCRemote\obj\Debug\UVNCRemote.g.resources
+C:\CodeRepos\UVNCRemote\obj\Debug\UVNCRemote.Properties.Resources.resources
+C:\CodeRepos\UVNCRemote\obj\Debug\UVNCRemote.csproj.GenerateResource.cache
+C:\CodeRepos\UVNCRemote\obj\Debug\UVNCRemote.csproj.CoreCompileInputs.cache
+C:\CodeRepos\UVNCRemote\obj\Debug\UVNCRemote.exe
+C:\CodeRepos\UVNCRemote\obj\Debug\UVNCRemote.pdb
+C:\CodeRepos\UVNCRemote\obj\Debug\UVNCRemote.csproj.AssemblyReference.cache
